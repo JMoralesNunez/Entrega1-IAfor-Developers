@@ -26,12 +26,7 @@ La atención al cliente se divide en atención por correos, chats y llamadas, si
       - Mayor velocidad de respuesta.
       
 4. Comparativa entre Procesos
-   | Aspecto                    | Proceso Tradicional              | Solución con IA                      |
-|----------------------------|----------------------------------|-----------------------------------------|
-| Agilización de procesos.   | Lento                            | Alta                                    |
-| Solucionar problemas       | Medio                            | Alta                                    |
-| velocidad de respuesta.    | Lento                            | Alta                                    |
-| Presupuesto                | Bajo                             | Medio                                   |
+La comparación entre el proceso tradicional y la solución con inteligencia artificial (IA) revela diferencias significativas en varios aspectos clave. En cuanto a la agilización de procesos, el método tradicional suele ser lento, mientras que la solución con IA ofrece una alta agilidad. Para solucionar problemas, el enfoque tradicional presenta una capacidad media, en contraste con la alta eficacia de la IA. Respecto a la velocidad de respuesta, nuevamente, el proceso tradicional se muestra lento, mientras que la IA proporciona una respuesta rápida y eficiente. Por último, en términos de presupuesto, el método tradicional requiere una inversión baja, mientras que la implementación de una solución con IA implica un costo medio.
 
-5. Reflexión Personal
+6. Reflexión Personal
 Considero que el uso de IAs en este tipo de empresas es bastante útil no sólo para los clientes, en quienes solemos pensar primero, sino también para los empleados de la empresa, quienes pueden realizar mejor su trabajo gracias a las tareas de la IA 
